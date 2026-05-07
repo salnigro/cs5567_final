@@ -1,0 +1,19 @@
+# Data sets
+train/
+test/
+
+# Generated models
+models/
+
+# Generated output videos and results
+*.mp4
+*_results.txt
+
+# Python caches
+__pycache__/
+*.pyc
+
+# IDEs / OS files
+.vscode/
+.idea/
+.DS_Store
